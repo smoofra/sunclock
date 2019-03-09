@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sunclock)(type Legacy)(uri /Users/ldanna/Documents/sunclock/sunclock.lib)(options "")(descr ""))
+)
